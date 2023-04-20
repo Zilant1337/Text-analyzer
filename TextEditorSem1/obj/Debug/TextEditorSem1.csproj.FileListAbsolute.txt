@@ -1,0 +1,11 @@
+C:\Users\grigo\source\repos\TextEditorSem1\TextEditorSem1\bin\Debug\TextEditorSem1.exe.config
+C:\Users\grigo\source\repos\TextEditorSem1\TextEditorSem1\bin\Debug\TextEditorSem1.exe
+C:\Users\grigo\source\repos\TextEditorSem1\TextEditorSem1\bin\Debug\TextEditorSem1.pdb
+C:\Users\grigo\source\repos\TextEditorSem1\TextEditorSem1\obj\Debug\TextEditorSem1.csproj.AssemblyReference.cache
+C:\Users\grigo\source\repos\TextEditorSem1\TextEditorSem1\obj\Debug\TextEditorSem1.Form1.resources
+C:\Users\grigo\source\repos\TextEditorSem1\TextEditorSem1\obj\Debug\TextEditorSem1.Form2.resources
+C:\Users\grigo\source\repos\TextEditorSem1\TextEditorSem1\obj\Debug\TextEditorSem1.Properties.Resources.resources
+C:\Users\grigo\source\repos\TextEditorSem1\TextEditorSem1\obj\Debug\TextEditorSem1.csproj.GenerateResource.cache
+C:\Users\grigo\source\repos\TextEditorSem1\TextEditorSem1\obj\Debug\TextEditorSem1.csproj.CoreCompileInputs.cache
+C:\Users\grigo\source\repos\TextEditorSem1\TextEditorSem1\obj\Debug\TextEditorSem1.exe
+C:\Users\grigo\source\repos\TextEditorSem1\TextEditorSem1\obj\Debug\TextEditorSem1.pdb
